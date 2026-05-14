@@ -5,7 +5,7 @@
 [![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A deep learning project that recognizes handwritten digits (0-9) using a **Multilayer Perceptron (MLP)** neural network. The model is trained on the classic MNIST dataset and exported to **TensorFlow Lite** format for mobile deployment.
+A deep learning project that recognizes handwritten digits (0-9) using a **Multilayer Perceptron (MLP)** neural network. The model is trained on the classic MNIST dataset and exported to **TensorFlow Lite** format for mobile deployment, both in its **normal** and **quantized** form.
 
 ## 🎯 Key Features
 
